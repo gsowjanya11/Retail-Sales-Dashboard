@@ -13,4 +13,7 @@ Product breakdowns
 Quanity Ordered,Sales
 Top performing Products
 
-Dashboard : 
+Dashboard :
+Sales Overview : https://github.com/gsowjanya11/Retail-Sales-Dashboard/blob/main/SalesOverview.PNG
+Customer Inisghts : 
+
