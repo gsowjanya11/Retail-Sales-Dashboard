@@ -14,6 +14,6 @@ Quanity Ordered,Sales
 Top performing Products
 
 Dashboard :
-Sales Overview : https://github.com/gsowjanya11/Retail-Sales-Dashboard/blob/main/SalesOverview.PNG
-Customer Inisghts : 
+Sales Overview : https://github.com/gsowjanya11/Retail-Sales-Dashboard/blob/main/SalesOverview.PNG    
+Customer Insights : https://github.com/gsowjanya11/Retail-Sales-Dashboard/blob/main/CustomerInsights.PNG 
 
