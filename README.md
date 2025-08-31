@@ -7,3 +7,10 @@ Pandas & numpy : Aggregation and preprocessing
 Streamlit : Interactive dashboard deployment
 Altair : responsive charting and visual storytelling
 
+## Key Features
+Date Filters to explore trends
+Product breakdowns
+Quanity Ordered,Sales
+Top performing Products
+
+Dashboard : 
